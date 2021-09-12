@@ -1,0 +1,21 @@
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe.config
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.pdb
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csprojAssemblyReference.cache
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csproj.CoreCompileInputs.cache
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.exe
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.pdb
+C:\Users\Jaska\Downloads\AssignmentThree\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe.config
+C:\Users\Jaska\Downloads\AssignmentThree\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe
+C:\Users\Jaska\Downloads\AssignmentThree\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.pdb
+C:\Users\Jaska\Downloads\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csprojAssemblyReference.cache
+C:\Users\Jaska\Downloads\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csproj.CoreCompileInputs.cache
+C:\Users\Jaska\Downloads\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.exe
+C:\Users\Jaska\Downloads\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.pdb
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentThree\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe.config
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentThree\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentThree\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.pdb
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csproj.AssemblyReference.cache
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csproj.CoreCompileInputs.cache
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.exe
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentThree\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.pdb
